@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "hamster-wars-a5cea",
+    "private_key_id": "22ee6fd24bd37176b056a7c7a07da53a4c9e6918",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCsA0w1l/ShOloZ\nCXOKAEsBuEGvEBOuLXkyVBtxAwYVqWBtu7CcEkrCFMeCk4FrumlwzkOJPh4fcm0K\ndz0CXOdCZMLa2MAnURPLfusPP4YBaifCEgeZ34DGO7TJBBIiMmtmbTUQlbFTnymB\n0gvXQehcdij+0Dqwrcf/rxwfH6UsHQ4n598KK1KJ+kEePsc+M8qBnW5P93fN1JnW\nQypwBPeSRZH3rCPuxsDpPcGrqlQnca0/NhM1FdYJnjt7GE91iM7l3SZSj6tlHRJ4\nld6Cf/1x52YyaTJirMN0r7meqWEIJmiH8DdiVuXEIAVWgJW2EC5G69V+f4BZLmIq\nP6VAcpnfAgMBAAECggEARCeeV5HY1NUZA9iR1fkdvxWxuNqG4bmUztMyeEm5bHXL\nBk+av4wj4Nh44Izvd67Jvm+LpOJe7xjYiZALNVd4Lf9ckXfWUv21+ShVnJoPz5mv\nHR8lsdsz29emXwtk3/XYRiI5J1QYiciDmrOOC4FKvu/2eFgrGPwSRYWtf8t7F4nY\nzllIN8xDZq9mnNRQRcAeBJcdHWtW5/J7ZZF20xyUha6kHqzc/8A68E1Ual2LvAhk\ncfW1pJG4QW6q6mw7RAJYw9QvPJ99i4rZOVd11H9fiLNy0zYUW5xMhMa2X78rl9cP\nfqTbR3j8uwloQXN8/ah0qdrZK6uz4ks/qB0LpHeuGQKBgQDjjt3LqXgynI6Q/FX+\nekygv0IrQMbsW1qZi4je+sJ8DEBmYQpBm0GO1dmammK5jchLObRT1hkHeUc1SdrH\nigKUMNNps7iNiUqi+fBqxLSAILVgLrTb4lVAuwJM1zi9YAlMHa5wEIKM4S11XvFz\nH5cF6trbmyL/Om3zC8yPmLnbQwKBgQDBgyl/4aV1aZUpFg9XKcdSaMyPhxsg5FIU\ne2Gw6Gy19o4mBmZ1kbnpt74Oe6Uub2Ltm13s0RaRvoTI4WI6XAkGx6RPaHZr0hj0\n9Z+xZd0JooUMSbY3HUkL9QtHJ2OXyWjrvGLTWpTTaOfc4sAACqS1x3YqTIZl8x2t\nhU7WMJsnNQKBgCg5vAlhdsbzl9wXTxhCBEOyK3873y4u4/Aak2JfT3vgKo4uf0Kj\nsE4QjXvf6K3GW264z6C2SwxgKu9Hk+4L/nK1wtl/lJMoftIafp5REVtI7OcIup3X\n/5wGstxkezo2vM4AvTJAKOPAdmm2E9Z28hpwrql9Xg1iBceeAVYs+EXDAoGBAIe6\nRo5Sp2nd/2gM9/+L5ykPJoN5IPcGDegdzhx2OWG7qGJVVOIbr0mVvfGMmgQizkGY\nGt3ynaDl/16ibvI+AXrG5qFnxL/FYgnWiga0Sr/qROWkgfDQUp7XZeynXPxmoXfO\n74YM35wU1aQhSsf8ryBs4Z2zhQTW67b8bJphB0INAoGAMZoWz8Rp00o2xYK5IhFF\nzZqWIKwU2ieSTp++NmASRe/X1VmmsC7i0Jwwf/lPV668fFXs5nN58ZSfyHc6BQcr\nBr8+alL7m5U+ZWannJ/uyW3re17UfFJwAlY4bqd4ImEYBIJPR/T5JbU0wPc24j1N\nrW+G04B4MsIXxKTWDTMO0g4=\n-----END PRIVATE KEY-----\n",
+    "client_email": "andre-529@hamster-wars-a5cea.iam.gserviceaccount.com",
+    "client_id": "100291308107560621084",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/andre-529%40hamster-wars-a5cea.iam.gserviceaccount.com"
+  }
+  
