@@ -4,7 +4,10 @@ import express from "express";
 import cors from "cors";
 import hamsters from "/routes/hamsters.js"
 const app = express();
-const PORT = 1338;
+
+const PORT = process.env.PORT || 1338;
+const distPath = path.join(__dirname, '/../dist/')
+console.log('distpath:', distPath)
 // import hamsters from "./routes/hamsters.js";
 // Middleware
 // CORS open ou project so we can open it from ather domine
@@ -20,10 +23,15 @@ app.use((req, res, next) => {
 });
 app.use("/Hamsters", hamsters)
 // Serve static files in this folder
-app.use(express.static("public"));
+app.use( express.static(distPath) ) 
+// '/img/hamster-14.jpg' -> './hamsterImages/hamster-14.jpg'
+app.use('/img', express.static(path.join(__dirname, '/hamsterImages/')) )
+
 
 // Routes
-
+app.all('*', (req, res) => {
+	res.sendFile(distPath + 'index.html')
+})
 
 // Start server
 app.listen(PORT, () => {

@@ -2,4 +2,14 @@
   text-align: center;
 }
 
+header {
+  height: 5%;
+  border: solid black 1px;
+  background-color: rgb(160, 25, 25);
+}
 
+#hamsterCard {
+  width: 200px;
+  height: 480px;
+  border-radius: 10%;
+}
